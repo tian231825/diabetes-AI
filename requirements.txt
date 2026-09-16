@@ -1,0 +1,11 @@
+torch==1.10.2
+numpy==1.19.5
+pandas==1.1.5
+Pillow==8.4.0
+matplotlib==3.1.2
+scikit-learn==0.24.2
+tensorboard==1.15.0
+
+# Required only for the medication HTTP service.
+fastapi>=0.68,<0.100
+uvicorn>=0.15,<0.23

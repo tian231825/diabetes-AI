@@ -1,0 +1,6 @@
+Place the stage-1 input JSON files in this directory:
+
+data_simplified_basic.json
+data_simplified_premix.json
+data_simplified_basic_extra.json
+data_simplified_premix_extra.json

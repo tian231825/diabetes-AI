@@ -1,0 +1,4 @@
+insulin-stage1/checkpoints/**/*.pth
+insulin-stage2/checkpoints/**/*.pth
+__pycache__/
+*.pyc
